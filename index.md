@@ -3,9 +3,6 @@ layout: default
 ---
 
 
-[About me](./about-me.html)
-
-
 Under construction!
 
 
